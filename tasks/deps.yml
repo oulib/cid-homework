@@ -1,0 +1,9 @@
+---
+- name: Install dependencies
+  yum:
+    name: 
+      - unzip
+      - libselinux-python
+      - libsemanage-python
+      - openssl
+    state: present
