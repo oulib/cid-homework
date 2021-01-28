@@ -4,7 +4,7 @@ A recent version of Vagrant and Ansible is required to complete this project.
 We'll be reviewing your work using Vagrant 2.2+ and Ansible 2.9+, and we'll be
 using the VirtualBox Vagrant provider with VirtualBox version 6.1+.
 
-Using the provided files as a starting point, write a playbook that completes
+Using the provided files as a starting point, update `playbook.yml` to complete
 the following tasks on the vagrant VM.  These tasks can be completed in any
 order, and you are encouraged to make use of files, templates, handlers, and
 other Ansible features as needed. 
