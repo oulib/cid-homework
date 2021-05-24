@@ -16,7 +16,7 @@ Additionally, please provide inline comments in `playbook.yml`, and other
 files as appropriate.
 
 We expect it should take 1-2 hours to complete this exercise. When completed, 
-please send us a tar file of the final state of the repo. Please do include your 
+please send us a tar file of the final state of your files. Please do include your 
 `.git` directory so we can see your commits, but DO NOT include the `.vagrant` 
 directory, or the virtual machine.   
 
